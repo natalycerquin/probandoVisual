@@ -28,7 +28,7 @@ namespace TestExamen
 
             var setN = 2;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("II", result);
         }
@@ -41,7 +41,7 @@ namespace TestExamen
 
             var setN = 3;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("III", result);
         }
@@ -54,7 +54,7 @@ namespace TestExamen
 
             var setN = 4;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("IV", result);
         }
@@ -67,7 +67,7 @@ namespace TestExamen
 
             var setN = 5;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("V", result);
         }
@@ -80,7 +80,7 @@ namespace TestExamen
 
             var setN = 6;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("VI", result);
         }
@@ -93,7 +93,7 @@ namespace TestExamen
 
             var setN = 7;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("VII", result);
         }
@@ -106,7 +106,7 @@ namespace TestExamen
 
             var setN = 8;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("VIII", result);
         }
@@ -119,7 +119,7 @@ namespace TestExamen
 
             var setN = 9;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("IX", result);
         }
@@ -132,7 +132,7 @@ namespace TestExamen
 
             var setN = 10;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("X", result);
         }
@@ -145,7 +145,7 @@ namespace TestExamen
 
             var setN = 11;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("II", result);
         }
@@ -158,7 +158,7 @@ namespace TestExamen
 
             var setN = 12;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("XI", result);
         }
@@ -171,7 +171,7 @@ namespace TestExamen
 
             var setN = 13;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("XIII", result);
         }
@@ -184,7 +184,7 @@ namespace TestExamen
 
             var setN = 14;
 
-            var result = num.devolverNuemero(1);
+            var result = num.devolverNuemero(setN);
 
             Assert.AreEqual("XIV", result);
         }
