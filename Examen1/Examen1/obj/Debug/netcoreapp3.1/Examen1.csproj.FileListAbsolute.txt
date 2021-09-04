@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.exe
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.deps.json
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.runtimeconfig.json
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.runtimeconfig.dev.json
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.dll
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.pdb
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.AssemblyInfo.cs
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.dll
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.pdb
+D:\UNIVERSIDAD\CALIDAD\NATALY\PROYECTOS\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.genruntimeconfig.cache
