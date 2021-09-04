@@ -42,7 +42,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Pepito", result);
 
         }
         [Test]
@@ -61,7 +61,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Empate", result);
 
         }
         [Test]
@@ -80,7 +80,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Pepito", result);
 
         }
         [Test]
@@ -118,7 +118,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Empate", result);
 
         }
         [Test]
@@ -137,7 +137,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Pepito", result);
 
         }
           [Test]
@@ -175,7 +175,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Empate", result);
 
         }
         [Test]
@@ -194,7 +194,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Jose", result);
 
         }
         [Test]
@@ -213,7 +213,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Juan", result);
 
         }
         [Test]
@@ -232,7 +232,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Empate", result);
 
         }
         [Test]
@@ -251,17 +251,17 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Pepito", result);
 
         }
         [Test]
-        public void Judada4()
+        public void Judada13()
         {
 
             var ju = new Jugador();
 
             var jugador1 = new jugadorClass();
-            jugador1.Nombre = "Nataly";
+            jugador1.Nombre = "Jose";
             jugador1.Eleccion = "Papel";
 
             var jugador2 = new jugadorClass();
@@ -270,11 +270,11 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Jose", result);
 
         }
         [Test]
-        public void Judada5()
+        public void Judada14()
         {
 
             var ju = new Jugador();
@@ -289,64 +289,7 @@ namespace TestExamen
 
             var result = ju.VerGanador(jugador1, jugador2);
 
-            Assert.AreEqual("Nataly", result);
-
-        }
-        [Test]
-        public void Judada6()
-        {
-
-            var ju = new Jugador();
-
-            var jugador1 = new jugadorClass();
-            jugador1.Nombre = "Nataly";
-            jugador1.Eleccion = "Piedra";
-
-            var jugador2 = new jugadorClass();
-            jugador2.Nombre = "Pepito";
-            jugador2.Eleccion = "Papel";
-
-            var result = ju.VerGanador(jugador1, jugador2);
-
-            Assert.AreEqual("Nataly", result);
-
-        }
-        [Test]
-        public void Judada7()
-        {
-
-            var ju = new Jugador();
-
-            var jugador1 = new jugadorClass();
-            jugador1.Nombre = "Nataly";
-            jugador1.Eleccion = "Piedra";
-
-            var jugador2 = new jugadorClass();
-            jugador2.Nombre = "Pepito";
-            jugador2.Eleccion = "Tijera";
-
-            var result = ju.VerGanador(jugador1, jugador2);
-
-            Assert.AreEqual("Nataly", result);
-
-        }
-        [Test]
-        public void Judada8()
-        {
-
-            var ju = new Jugador();
-
-            var jugador1 = new jugadorClass();
-            jugador1.Nombre = "Nataly";
-            jugador1.Eleccion = "Piedra";
-
-            var jugador2 = new jugadorClass();
-            jugador2.Nombre = "Pepito";
-            jugador2.Eleccion = "Piedra";
-
-            var result = ju.VerGanador(jugador1, jugador2);
-
-            Assert.AreEqual("Nataly", result);
+            Assert.AreEqual("Empate", result);
 
         }
     }
